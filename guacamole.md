@@ -1,1 +1,6 @@
-don't add lime if you're allergic
+#Guacamole
+## Ingredients
+* avocado
+* lime
+* salt
+## Instructions
